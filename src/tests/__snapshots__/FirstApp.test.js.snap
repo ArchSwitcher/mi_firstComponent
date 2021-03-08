@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`make tests in component FirstApp should be show <FirstApp /> success 1`] = `
+<Fragment>
+  <h1>
+    Hi im Arch Switcher
+  </h1>
+  <p>
+     
+    im a subtitle
+  </p>
+</Fragment>
+`;
